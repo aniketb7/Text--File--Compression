@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"index\tabc"
+			],
+			[
+				"re",
+				"return\t(dll.cpp)"
+			],
+			[
+				"str",
+				"str\tabc"
+			],
+			[
+				"min",
+				"min_jumps\tabc"
+			],
+			[
+				"en",
+				"encoding\tabc"
+			],
+			[
+				"pas",
+				"print_pascal_traingle\tabc"
+			],
+			[
+				"rea",
+				"rearrage\tabc"
+			],
+			[
+				"co",
+				"count\tabc"
+			],
+			[
+				"tmp",
+				"tmp2\tabc"
+			],
+			[
+				"inse",
+				"insert\t(binary_heap.cpp)"
+			],
+			[
+				"tm",
+				"temp\tabc"
+			],
+			[
+				"mi",
+				"min_heap\tabc"
+			],
+			[
+				"s",
+				"size\tabc"
+			],
+			[
+				"ri",
+				"right\tabc"
+			],
+			[
+				"le",
+				"left_size\tabc"
+			],
+			[
+				"l",
+				"low\tabc"
+			],
+			[
+				"rig",
+				"right_size\tabc"
+			],
+			[
+				"mer",
+				"merge\tabc"
+			],
+			[
+				"add",
+				"add_left\tabc"
+			],
+			[
+				"cu",
+				"cur\tabc"
+			],
+			[
+				"p",
+				"push\tabc"
+			],
+			[
+				"pri",
+				"print\t(INHERITENCE.CPP)"
+			],
+			[
+				"las",
+				"last2\tabc"
+			],
+			[
+				"la",
+				"last2\tabc"
+			],
+			[
+				"cout",
+				"cout\tabc"
+			],
+			[
+				"retu",
+				"return\tabc"
+			],
+			[
+				"ne",
+				"next\tabc"
+			],
+			[
+				"reve",
+				"reverse_rec\tabc"
+			],
+			[
+				"next",
+				"next\tabc"
+			],
+			[
+				"swp",
+				"swap_nodes\tabc"
+			],
+			[
+				"new_",
+				"new_next\tabc"
+			],
+			[
+				"dele",
+				"delete_node\tabc"
+			],
+			[
+				"prin",
+				"print\tabc"
+			],
+			[
+				"maj",
+				"majority_n3\tabc"
+			],
+			[
+				"ele",
+				"element1\tabc"
+			],
+			[
+				"cn",
+				"cnt2\tabc"
+			],
+			[
+				"eleme",
+				"element\tabc"
+			],
+			[
+				"merge",
+				"mergesort\tabc"
+			],
+			[
+				"right",
+				"right-left"
+			],
+			[
+				"merg",
+				"merge\tabc"
+			],
+			[
+				"be",
+				"begin\tabc"
+			],
+			[
+				"pre",
+				"prefix\tabc"
+			],
+			[
+				"de",
+				"destructor\tabc"
+			],
+			[
+				"se",
+				"setdata\tabc"
+			],
+			[
+				"shw",
+				"show\tabc"
+			],
+			[
+				"sh",
+				"show\tabc"
+			],
+			[
+				"set",
+				"setdata\tabc"
+			],
+			[
+				"c",
+				"complex\tabc"
+			],
+			[
+				"left",
+				"left\tabc"
+			],
+			[
+				"dia",
+				"diagonal_traversal\tabc"
+			],
+			[
+				"push",
+				"push_back\tabc"
+			],
+			[
+				"root",
+				"root\tabc"
+			],
+			[
+				"new",
+				"new_node\tabc"
+			],
+			[
+				"inc",
+				"inc\t#include \"…\""
+			],
+			[
+				"to",
+				"tocap\tabc"
+			],
+			[
+				"fro",
+				"fromcap\tabc"
+			],
+			[
+				"lo",
+				"lolim\tabc"
+			],
+			[
+				"std",
+				"stdc++.h\t(main.cpp)"
+			],
+			[
+				"i",
+				"inc\t#include <…>"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Build With: C++ Single File - Run"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/onkar/Documents/sublime/string_encode.c",
+		"/C/Users/onkar/Documents/sublime/solve.cpp",
+		"/C/Users/onkar/Documents/sublime/inputf.in",
+		"/C/Users/onkar/Documents/sublime/oop.cpp",
+		"/C/Users/onkar/Documents/sublime/tree_revision.cpp",
+		"/C/Users/onkar/Desktop/Warface.url",
+		"/C/Users/onkar/Downloads/DSA/slam.txt",
+		"/C/Users/onkar/Documents/sublime/sieve_erathosness.cpp",
+		"/C/Users/onkar/Documents/sublime/water_jug.cpp",
+		"/C/Users/onkar/Documents/cpp programming/graph revision 2/main.cpp",
+		"/C/Users/onkar/AppData/Roaming/Sublime Text 3/Packages/User/cp.sublime-build",
+		"/C/Users/onkar/Documents/css/six.html",
+		"/C/Users/onkar/Documents/cpp programming/graph revision 2/graph revision 2.cbp",
+		"/C/Users/onkar/Documents/css/five.html",
+		"/C/Users/onkar/Documents/css/six.css",
+		"/C/Users/onkar/Documents/css/boostrap_grid.html",
+		"/C/Users/onkar/Documents/cpp programming/xdas/main.cpp",
+		"/C/Users/onkar/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/onkar/Documents/css/styles.css"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/cp.sublime-build",
+	"project": "results.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 309.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
